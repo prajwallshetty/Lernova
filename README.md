@@ -71,8 +71,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/saas-app.git](https://github.com/prajwallshetty/Lernova.git
-cd Learnova
+git clone https://github.com/prajwallshetty/Lernova.git
+cd Lernova
 ```
 
 **Installation**
