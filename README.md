@@ -61,7 +61,7 @@ and many more, including code architecture and reusability.
 | Name             | Role                | GitHub                                             |
 |------------------|---------------------|----------------------------------------------------|
 | Pahima Uchil     | Frontend Developer  | [@pahimauchila](https://github.com/pahimauchil) |
-| Prajwal Shetty   | Backend Developer   | [@ananyarao](https://github.com/prajwallshetty)         |
+| Prajwal Shetty   | Backend Developer   | [@prajwallshetty](https://github.com/prajwallshetty)         |
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
