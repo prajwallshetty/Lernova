@@ -56,6 +56,13 @@ Create an LMS SaaS app from scratch featuring user authentication, subscriptions
 
 and many more, including code architecture and reusability.
 
+## 👥 Collaborators
+
+| Name             | Role                | GitHub                                             |
+|------------------|---------------------|----------------------------------------------------|
+| Pahima Uchil     | Frontend Developer  | [@pahimauchila](https://github.com/pahimauchil) |
+| Prajwal Shetty   | Backend Developer   | [@prajwallshetty](https://github.com/prajwallshetty)         |
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
