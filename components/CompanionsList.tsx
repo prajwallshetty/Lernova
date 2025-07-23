@@ -32,7 +32,6 @@ const CompanionsList = ({
             <TableHead className="text-lg w-2/3">Lessons</TableHead>
             <TableHead className="text-lg">Subject</TableHead>
             <TableHead className="text-lg text-right">Duration</TableHead>
-            <TableHead className="text-right">Amount</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
