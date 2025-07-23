@@ -49,9 +49,9 @@ const CompanionForm = () => {
     },
   });
 
-  const onSubmit = (values) => {
-    console.log(values);
-  };
+    function onSubmit(values: z.infer<typeof formSchema>) {
+      console.log(values);
+    }
 
   return (
     <Form {...form}>
